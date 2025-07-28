@@ -107,9 +107,6 @@ python app.py
 Access the web app
 Visit: http://127.0.0.1:5000/
 
-🖼️ Screenshot
-(Insert image of your website here)
-
 ✅ Conclusion
 This project shows how machine learning combined with NLP can accurately detect spam messages. The Naive Bayes model gave the best balance of performance and simplicity.
 
